@@ -1,0 +1,6 @@
+En esta carpeta he introducido dos proyectos distintos con un portlet cada uno.
+
+En uno de ellos he empleado alloyui sobre unos datos predeterminados.
+
+En el otro proyecto el portlet reconoce los datos de Servicio de Liferay.
+
